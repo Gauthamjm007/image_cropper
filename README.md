@@ -2,7 +2,7 @@
 
 ## Download/View
 
-You can view the live website here[image](http://Gauthamjm007.github.io/image_cropper)
+You can view the live website [here](http://Gauthamjm007.github.io/image_cropper) <br/>
 or you can run it in local server <br/>
 git clone https://github.com/Gauthamjm007/image_cropper.git
 cd image-cropper<br/>
