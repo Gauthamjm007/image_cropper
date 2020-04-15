@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/image_cropper/static/css/main.bf669c28.chunk.css",
+    "main.js": "/image_cropper/static/js/main.0900297e.chunk.js",
+    "main.js.map": "/image_cropper/static/js/main.0900297e.chunk.js.map",
+    "runtime-main.js": "/image_cropper/static/js/runtime-main.6e426a34.js",
+    "runtime-main.js.map": "/image_cropper/static/js/runtime-main.6e426a34.js.map",
+    "static/css/2.b9b7f290.chunk.css": "/image_cropper/static/css/2.b9b7f290.chunk.css",
+    "static/js/2.b981ad90.chunk.js": "/image_cropper/static/js/2.b981ad90.chunk.js",
+    "static/js/2.b981ad90.chunk.js.map": "/image_cropper/static/js/2.b981ad90.chunk.js.map",
+    "index.html": "/image_cropper/index.html",
+    "precache-manifest.066d456ec3a10dbf10f92049a2ab077d.js": "/image_cropper/precache-manifest.066d456ec3a10dbf10f92049a2ab077d.js",
+    "service-worker.js": "/image_cropper/service-worker.js",
+    "static/css/2.b9b7f290.chunk.css.map": "/image_cropper/static/css/2.b9b7f290.chunk.css.map",
+    "static/css/main.bf669c28.chunk.css.map": "/image_cropper/static/css/main.bf669c28.chunk.css.map",
+    "static/js/2.b981ad90.chunk.js.LICENSE.txt": "/image_cropper/static/js/2.b981ad90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e426a34.js",
+    "static/css/2.b9b7f290.chunk.css",
+    "static/js/2.b981ad90.chunk.js",
+    "static/css/main.bf669c28.chunk.css",
+    "static/js/main.0900297e.chunk.js"
+  ]
+}
